@@ -1,2 +1,2 @@
 # IXL_Scraper
-Scraping Skills from https://www.ixl.com/ 
+Scraping skills from https://www.ixl.com/ 
